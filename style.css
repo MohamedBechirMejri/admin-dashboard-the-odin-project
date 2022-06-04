@@ -1,0 +1,7 @@
+*::-webkit-scrollbar,
+*::-webkit-scrollbar-track,
+*::-webkit-scrollbar-thumb {
+  width: 0;
+  height: 0;
+  display: none;
+}
